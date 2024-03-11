@@ -11,12 +11,3 @@ Hello I'm a B.Tech CSE student with a passion for web and app development. On th
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amanvarshney01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanvarshney01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amanvarshney01&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
- <!-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) I dont need to include html/css if i included Nextjs cringe devs do this -->
- <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) tell me 1 dev who knows javascript --> 
----
-[![](https://visitcount.itsvg.in/api?id=amanvarshney01&icon=6&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
