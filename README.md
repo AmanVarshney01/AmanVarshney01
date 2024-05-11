@@ -2,6 +2,8 @@
 
 Hello I'm a B.Tech CSE student with a passion for web and app development. On the path to becoming a Software Engineer.
 
+Portfolio - https://www.amanvarshney.tech/
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanvarshney11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amanvarshney01) 
 
