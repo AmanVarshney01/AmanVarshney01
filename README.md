@@ -1,6 +1,9 @@
 # Aman Varshney
 
-Hello I'm a B.Tech CSE student with a passion for web and app development. On the path to becoming a Software Engineer.
+- B Tech CSE Student
+- Full Stack Developer
+- Interested in Mobile app development too
+- Always learning new tech
 
 Portfolio - https://www.amanvarshney.tech/
 
