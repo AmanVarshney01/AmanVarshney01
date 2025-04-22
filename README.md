@@ -5,4 +5,4 @@
 - Interested in Mobile app development too
 - Always learning new tech
 
-Portfolio - https://www.amanvarshney.work/
+[Portfolio](https://amanv.dev/)
